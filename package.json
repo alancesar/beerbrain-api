@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon",
-    "start": "pm2 start src/loader.js --name beerbrain-api",
+    "start": "node src/loader.js",
     "lint": "eslint --ext .js src/",
     "lint:fix": "eslint --ext .js --fix src/"
   },
@@ -25,7 +25,6 @@
     "express": "^4.16.3",
     "mongoose": "^5.0.10",
     "node-restful": "^0.2.6",
-    "pm2": "^2.10.1",
     "winston": "^2.4.1"
   },
   "devDependencies": {
