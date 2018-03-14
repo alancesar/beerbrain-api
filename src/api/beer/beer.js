@@ -2,7 +2,7 @@ const restful = require('node-restful');
 
 const { mongoose } = restful;
 
-const beersSchema = new mongoose.Schema({
+const BeerSchema = new mongoose.Schema({
   name: { type: String, required: true },
   volume: { type: String, required: true },
   image: { type: String, required: true },
@@ -14,4 +14,4 @@ const beersSchema = new mongoose.Schema({
   description: { type: String, required: true },
 });
 
-module.exports = restful.model('beers', beersSchema);
+module.exports = restful.model('beer', BeerSchema);

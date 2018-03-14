@@ -1,5 +1,5 @@
-const beers = require('./beers');
+const beer = require('./beer');
 
-beers.methods(['get']);
+beer.methods(['get']);
 
-module.exports = beers;
+module.exports = beer;
