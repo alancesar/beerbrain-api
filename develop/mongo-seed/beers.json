@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Anchor Porter",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/zkLKKd9.jpg",
+    "ibu": 10,
+    "country": "5ac762276d0ca2a44ce9b652",
+    "abv": 5.6,
+    "style": "Porter",
+    "prices": [
+      {
+        "value": 19.9,
+        "expiresAt": null
+      },
+      {
+        "value": 23.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "O estilo inglês que ganhou os EUA e o mundo, rico em sabores e aromas maltados como chocolate, toffe, caramelo e uma baixa presença de café mas que nunca deve se assimilar a torrado ou café expresso. Sua cor é marrom escura com notas avermelhadas, cremosa, encorpada, a Anchor Porter vem sendo produzida desde 1972 quando a cervejaria completava 40 anos, desde aquela época já com uma pegada de lúpulos americanos, um pouco mais de amargor do que as Porters tradicionais inglesas"
+  },
+  {
+    "name": "Brooklyn Brown Ale",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/DzXTsxu.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b652",
+    "abv": 5.6,
+    "style": "Brown Ale",
+    "prices": [
+      {
+        "value": 29.9,
+        "expiresAt": null
+      },
+      {
+        "value": 28.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "Brooklyn Brewery, iniciou suas atividades como uma cervejaria Cigana, ou seja, produzindo sua cerveja em uma fábrica alugando seu espaço de produção, após 10 anos a chegada do atual mestre cervejeiro Garrett Oliver deu-se um marco importante, a fundação da Brooklyn Brewery física, a abertura da sua própria fábrica. A Brooklyn Brown Ale é um estilo de cerveja mais maltada, de cor cobre ou marrom claro, balanceada entre o dulçor do malte e o amargor do lúpulo."
+  },
+  {
+    "name": "Brooklyn East IPA",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/dOMbJzw.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b652",
+    "abv": 6.8,
+    "style": "American IPA",
+    "prices": [
+      {
+        "value": 29.9,
+        "expiresAt": null
+      },
+      {
+        "value": 32.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "A Brooklyn East IPA é inspirada nas East Índia Pale Ales originais feitas na Inglaterra em meados do século 19 para as tropas inglesas na Índia. A East Índia Pale Ale é de um dourado escuro feita com malte britânico e uma mistura de lúpulo com a escolha da variedade East Kent Golding. É tradicionalmente produzida pelo método dry-hopped para um claro aroma de lúpulo, erva-limeira, pinheiro e frutas cítricas, um amargor robusto, um agradável sabor de malte e um final de amargo."
+  },
+  {
+    "name": "Chimay Blue",
+    "volume": "330 ml",
+    "image": "https://i.imgur.com/8eNZx5z.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b64e",
+    "abv": 9,
+    "style": "Belgian Strong Dark Ale",
+    "prices": [
+      {
+        "value": 32.9,
+        "expiresAt": null
+      }
+    ],
+    "description": "Inicialmente produzida como uma cerveja natalina em 1956, era uma cerveja sazonal e mais encorpada, atualmente conhecida como chimay blue, classificada muitas vezes como dark strong ale ou quadrupel. Apesar de ambos os estilos serem parecidos e confundidos a dark strong ale é um pouco mais leve do que a quadrupel, essa confusão ocorria porque o guia de estudos do BJCP não tinha uma categoria para as Quadrupel, que então se agrupavam como Dark Strong Ale ou Belgian Specialty."
+  },
+  {
+    "name": "Chimay Rouge",
+    "volume": "330 ml",
+    "image": "https://i.imgur.com/pm24DzB.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b64e",
+    "abv": 7,
+    "style": "Belgian Dubbel",
+    "prices": [
+      {
+        "value": 29.9,
+        "expiresAt": null
+      },
+      {
+        "value": 31.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "Chimay Rouge ou Red, ambas são a mesma cerveja, apenas apelidadas com nomes diferentes, uma pela receita outra pelo rótulo. Com a adição de candi sugar e feita por um mosteiro Trapista, oferece notas maltadas, aromas de frutas secas e leves notas de caramelo. Sua coloração marrom da o nome da cerveja Rouge, porém seu rótulo vermelho facilitou a cerveja a ser nomeada como chimay red."
+  },
+  {
+    "name": "Erdinger Dunkel",
+    "volume": "500 ml",
+    "image": "https://i.imgur.com/TgvEUgE.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b651",
+    "abv": 5.6,
+    "style": "Dunkel Weizen",
+    "prices": [
+      {
+        "value": 17.9,
+        "expiresAt": null
+      }
+    ],
+    "description": "A Erdinger Dunkel é uma weizen escura com leve toque de toffe/chocolate que são proporcionados pelos maltes tostados, além de um aroma complexo, fruto da mistura dos aromas de banana e cravo das weizen tradicionais. Refermentada em garrafa, esta cerveja contém 5,6% de álcool.."
+  },
+  {
+    "name": "Paulaner Hefe Weiss",
+    "volume": "500 ml",
+    "image": "https://i.imgur.com/WoVMMyt.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b651",
+    "abv": 5.5,
+    "style": "German Weizen",
+    "prices": [
+      {
+        "value": 21.9,
+        "expiresAt": null
+      },
+      {
+        "value": 23.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "Uma das melhores cervejas de trigo, a Paulaner Hefe-Weissbier Naturtrüb também é conhecida como “cerveja para o café da manhã”, na região da Bavária. Isso por ser uma cerveja de fácil digestão e leve. Sutilmente amarga, não filtrada e de cor amarela turva, esta cerveja com teor alcoólico de 5,5% possui o clássico aroma do estilo Weiss de cravo e banana. Com sabores frutados, malte adocicado e cravo, o sabor se assemelha muito aos aromas."
+  },
+  {
+    "name": "La Trappe Blond",
+    "volume": "330 ml",
+    "image": "https://i.imgur.com/L7UGbzy.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b64f",
+    "abv": 6.5,
+    "style": "Belgian Blond Ale",
+    "prices": [
+      {
+        "value": 24.9,
+        "expiresAt": null
+      },
+      {
+        "value": 22.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "A La Trappe Blond é uma cerveja balanceada, refrescante, de coloração dourada e aroma e paladar frutados, florais e perfumados. Com notas de banana e maltes equilibrados, é uma cerveja que segue as características do estilo."
+  },
+  {
+    "name": "La Trappe Witbier",
+    "volume": "330 ml",
+    "image": "https://i.imgur.com/lBUvAXO.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b64f",
+    "abv": 5.5,
+    "style": "Witibier",
+    "prices": [
+      {
+        "value": 19.9,
+        "expiresAt": null
+      },
+      {
+        "value": 18.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "A La Trape Witbier é a primeira cerveja do estilo a ser produzida por uma cervejaria trapista. Sua fermentação é contínua dentro da garrafa e apesar de ser uma cerveja que combina com o verão, não deixa de ser uma boa companhia em qualquer época do ano. Esta cerveja é produzida sem as especiarias conhecidas do estilo como casca de laranja e coentro. Esta tarefa fica por conta do lúpulo Saphir. Turva e não filtrada, esta cerveja é bastante frutada e aromática."
+  },
+  {
+    "name": "Guinness Special Export",
+    "volume": "330 ml",
+    "image": "https://i.imgur.com/bDMeFZq.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b653",
+    "abv": 8,
+    "style": "Stout",
+    "prices": [
+      {
+        "value": 39.9,
+        "expiresAt": null
+      },
+      {
+        "value": 38.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "A cerveja Guinness Special Export é conhecida como a \"Guinness belga\" pois foi distribuída pela cervejaria belga John Martin S.A. Apresenta textura leve e cremosa, com sensação suave de efervescência e espuma cremosa de boa formação. Nos aromas e sabores apresenta notas de café torrado, chocolate amargo, melado, frutas escuras e caramelo."
+  },
+  {
+    "name": "Dum Petroleum",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/WwihT2J.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b654",
+    "abv": 12,
+    "style": "Oatmeal Stout",
+    "prices": [
+      {
+        "value": 28.9,
+        "expiresAt": null
+      },
+      {
+        "value": 30.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "A Dum Petroleum não poderia ter um nome melhor para representar o que é esta cerveja preta. Fruto de muito pesquisa, foi desenvolvida em 2010, a fim de trazer para o Brasil Imperial Stouts que antes só existiam em livros. No começo, os rapazes da Dum decidiram exagerar um pouco na quantidade de malte, e pelas panelas pequenas que tinham na época, foram necessárias 24 horas para fazer a primeira brassagem e mais dois meses fermentando e maturando. Após todo esse processo, quem provava já sabia: estavam diante de um sucesso de cerveja no Brasil."
+  },
+  {
+    "name": "Eisenbahn Kolsch",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/UYvLoys.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b654",
+    "abv": 4.8,
+    "style": "Kolsch",
+    "prices": [
+      {
+        "value": 6.9,
+        "expiresAt": null
+      }
+    ],
+    "description": "A cerveja Eisenbahn Kolsch é uma cerveja com aroma frutado sutil e de alta fermentação. Sua coloração dourada e sabor suave, são provenientes dos quatro tipos de malte utilizados em sua produção. A definição do estilo Kolsch é: “leve, com malte levemente pronunciado, bem lupulada e de alta fermentação”."
+  },
+  {
+    "name": "Bastards Piná a Vivá",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/YMQxPHb.jpg",
+    "ibu": 40,
+    "country": "5ac762276d0ca2a44ce9b654",
+    "abv": 8.5,
+    "style": "Imperial India Pale Lager",
+    "prices": [
+      {
+        "value": 14.9,
+        "expiresAt": null
+      }
+    ],
+    "description": "A Bastards Piná a Vivá apresenta um estilo novo, o Imperial India Pale Lager. Encorpada, dourada e com amargor bastante pronunciado, possui aroma lupulado, cítrico e frutado, lembrando maracujá e manga."
+  },
+  {
+    "name": "Cevada Pura Irish Red Ale",
+    "volume": "500 ml",
+    "image": "https://i.imgur.com/nZVkoxB.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b654",
+    "abv": 4.5,
+    "style": "Red Ale",
+    "prices": [
+      {
+        "value": 17.9,
+        "expiresAt": null
+      },
+      {
+        "value": 13.9,
+        "promotional": true,
+        "expiresAt": "2018-05-01"
+      }
+    ],
+    "description": "A Cevada Pura Irish Red Ale é uma cerveja de coloração avermelhada, aparência translúcida e corpo leve. Apresenta nos aromas e sabores notas maltadas, caramelizadas e leve herbal graças ao processo de dry-hopping. Foi ganhadora da medalha de ouro no Concurso Brasileiro de Cervejas 2015."
+  },
+  {
+    "name": "Dado Bier Imperial Red Ale",
+    "volume": "600 ml",
+    "image": "https://i.imgur.com/kQT9bfv.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b654",
+    "abv": 9.5,
+    "style": "Imperial Red Ale",
+    "prices": [
+      {
+        "value": 27.9,
+        "expiresAt": null
+      },
+      {
+        "value": 0.0,
+        "promotional": true,
+        "expiresAt": "2018-05-01"
+      }
+    ],
+    "description": "Com um ótimo equilíbrio entre os 80 IBUs de amargor e a doçura do malte, a Dado Bier Imperial Red Ale (ou Dado Bier IRA) é uma cerveja de presença. Com alto teor alcoólico de 9,5%, é uma cerveja onde se destacam os aromas e sabores das notas cítricas de laranja, pinho e caramelo."
+  },
+  {
+    "name": "Samuel Adams Boston Lager",
+    "volume": "355 ml",
+    "image": "https://i.imgur.com/TLv5cKs.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b652",
+    "abv": 5.7,
+    "style": "Vienna Lager",
+    "prices": [
+      {
+        "value": 5.7,
+        "expiresAt": null
+      }
+    ],
+    "description": "Samuel Adams Boston Lager, a cerveja que revolucionou o mercado, quando o então mestre cervejeiro utilizou uma receita feita pelo seu tataravô Louis Koch. Logo ganhou muitos prêmios nacionais e internacionais, utilizando os mesmos métodos antigos de produção, trazendo aromas de caramelo e toffe o meto de decocção é trabalhoso e por isso muitas cervejarias deixaram de utilizar. Com aromas florais e resinosos a Samuel Adams Boston Lager, uma Vienna Lager, oferece uma degustação excelente com seu leve sabor de caramelo e com final seco."
+  },
+  {
+    "name": "Boon Framboise",
+    "volume": "375 ml",
+    "image": "https://i.imgur.com/nnBKaCp.jpg",
+    "ibu": 30,
+    "country": "5ac762276d0ca2a44ce9b64e",
+    "abv": 5,
+    "style": "Fruit Lambic",
+    "prices": [
+      {
+        "value": 79.9,
+        "expiresAt": null
+      },
+      {
+        "value": 77.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "Sem adoçantes artificiais, aromatizantes, conservantes ou corantes, a Framboise Boon é uma receita feita a partir do blend (mistura) de Lambics jovens e envelhecidas, produzida de acordo com o estilo Lambic tradicional de fermentação espontânea, com a adição de 25% de framboesasfrescas e 5% de cerejas selvagens. Essa mistura resulta em uma coloração avermelhada ímpar. Framboesas frescas são protagonistas do aroma desta iguaria, que pode ser considerada o elo perdido entre a cerveja e vinho. Deve ser servida gelada em uma delicada taça flute para ser consumida despretenciosamente, como um espumante, ou harmonizada com sobremesas delicadas à base de leite, chocolate ou frutas vermelhas."
+  },
+  {
+    "name": "Delirium Argentum",
+    "volume": "330 ml",
+    "image": "https://i.imgur.com/3dGYhuL.jpg",
+    "ibu": 20,
+    "country": "5ac762276d0ca2a44ce9b64e",
+    "abv": 7,
+    "style": "Belgian IPA",
+    "prices": [
+      {
+        "value": 36.9,
+        "expiresAt": null
+      }
+    ],
+    "description": "A cerveja Delirium Argentum foi feita por ocasião do 25º aniversário da Delirium Tremens. Os mestres cervejeiros da cervejaria Huyghe desenvolveram uma nova receita especial e limitada. \"Argentum\" significa prata em latim e assim como a arte do rótulo, faz menção às \"bodas de prata\" da Delirium Tremens. Uma Belgian IPA especial com 6 diferentes tipos de lúpulo (incluindo 3 tipos americanos), malte de cevada tostado e malte de trigo resultando em 7.0% de teor alcóolico e 49 IBU's. A cerveja, que também passa pelo processo de dry-hopping, conta com uma amargura complexa (vinda da combinação dos lúpulos) e com aromas cítricos seguidos por um toque de caramelo, proveniente do malte torrado."
+  },
+  {
+    "name": "Brewdog Punk Ipa",
+    "volume": "330ml",
+    "image": "https://i.imgur.com/5zkrE4a.jpg",
+    "ibu": 40,
+    "country": "5ac762276d0ca2a44ce9b650",
+    "abv": 5.6,
+    "style": "American IPA",
+    "prices": [
+      {
+        "value": 19.9,
+        "expiresAt": null
+      },
+      {
+        "value": 22.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "Esta interpretação escocesa do estilo foi muito bem sucedida. Apesar de ser mais clara que as demais do estilo, isso devido ao uso somente do famoso malte pálido britânico Maris Otter, ela destaca-se pela alta drinkability e seu impressionante frescor lupulado. A cerveja Brewdog Punk IPA possui aromas herbais, de limão e grapefruit, além de um nítido biscoito do malte usado. Seu final é amargo, seco, longo e persistente."
+  },
+  {
+    "name": "Bierland American IPA",
+    "volume": "500 ml",
+    "image": "https://i.imgur.com/GAfkmQA.jpg",
+    "ibu": 40,
+    "country": "5ac762276d0ca2a44ce9b654",
+    "abv": 6.5,
+    "style": "American IPA",
+    "prices": [
+      {
+        "value": 19.9,
+        "expiresAt": null
+      },
+      {
+        "value": 21.9,
+        "expiresAt": "2018-04-01"
+      }
+    ],
+    "description": "Inspirada nas India Pale Ales americanas, a Bierland American IPA é uma cerveja de alta fermentação, refrescante, de coloração dourada e límpida, com espuma cremosa e de longa duração. O destaque é sua intensidade aromática, proveniente dos lúpulos utilizados, que remetem a frutas como maracujá, manga e tangerina, ressaltada pelo dry hopping. O sabor é equilibrado, entre o amargor acentuado e um sutil maltado. Foi ganhadora da medalha de bronze na Copa Cervezas de America, que ocorreu esse ano no Chile."
+  }
+]

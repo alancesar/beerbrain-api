@@ -1,3 +1,4 @@
 #!/bin/bash
 
-mongoimport --host mongodb -d dojo -c beers --type csv --file database.csv --headerline
+mongoimport --host mongodb -d dojo -c countries --file countries.json --jsonArray
+mongoimport --host mongodb -d dojo -c beers --file beers.json --jsonArray

@@ -2,6 +2,12 @@ const restful = require('node-restful');
 
 const { mongoose } = restful;
 
+const PriceSchema = new mongoose.Schema({
+  value: { type: Number, require: true },
+  expiresAt: { type: String, default: null },
+  promotional: { type: Boolean, default: false },
+});
+
 const BeerSchema = new mongoose.Schema({
   name: { type: String, required: true },
   volume: { type: String, required: true },
@@ -10,7 +16,7 @@ const BeerSchema = new mongoose.Schema({
   country: { type: String, required: true },
   abv: { type: Number, required: true },
   style: { type: String, required: true },
-  price: { type: Number, required: true },
+  prices: { type: [PriceSchema], required: true },
   description: { type: String, required: true },
 });
 
