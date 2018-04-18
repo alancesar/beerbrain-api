@@ -7,7 +7,7 @@ module.exports = (app) => {
   const router = express.Router();
   app.use('/api', router);
 
-  // Beers Routes
-  beersService.register(router, '/beers');
+  // Beer Routes
+  beersService.register(router, '/beer');
   countryService.register(router, '/countries');
 };
