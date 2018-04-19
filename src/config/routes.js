@@ -1,5 +1,5 @@
 const express = require('express');
-const beersService = require('../api/beer/beerService');
+const beerService = require('../api/beer/beerService');
 const countryService = require('../api/country/countryService');
 
 module.exports = (app) => {
@@ -8,6 +8,6 @@ module.exports = (app) => {
   app.use('/api', router);
 
   // Beer Routes
-  beersService.register(router, '/beer');
+  beerService.register(router, '/beer');
   countryService.register(router, '/countries');
 };
